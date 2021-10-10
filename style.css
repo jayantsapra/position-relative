@@ -1,0 +1,19 @@
+section {
+    border: 2px solid lightblue;
+    padding: 10px;
+    margin: 3px;
+}
+
+img {
+    float: left;
+    padding-right: 10px;
+}
+
+.container {
+    width: 500px;
+    margin: auto;
+}
+section.two {
+    position: relative;
+    left: 100px;
+}
